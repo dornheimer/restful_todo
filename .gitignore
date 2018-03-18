@@ -1,0 +1,4 @@
+todo.egg-info/
+__pycache__/
+*.db
+migrations/
